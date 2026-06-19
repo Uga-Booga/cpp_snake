@@ -1,0 +1,9 @@
+/home/boogabooga/snake/build-linux/CMakeFiles/snake.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/package.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/package_source.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/edit_cache.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/rebuild_cache.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/list_install_components.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/install.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/install/local.dir
+/home/boogabooga/snake/build-linux/CMakeFiles/install/strip.dir

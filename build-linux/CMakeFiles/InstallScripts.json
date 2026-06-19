@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/boogabooga/snake/build-linux/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

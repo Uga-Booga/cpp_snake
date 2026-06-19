@@ -1,0 +1,11 @@
+Executing(%mkbuilddir): /bin/sh -e /var/tmp/rpm-tmp.fxzlDs
+Executing(%prep): /bin/sh -e /var/tmp/rpm-tmp.XL2FNf
+Executing(%install): /bin/sh -e /var/tmp/rpm-tmp.xAXqUV
+Processing files: snake-1.0.0-1.x86_64
+Provides: snake = 1.0.0-1 snake(x86-64) = 1.0.0-1
+Requires(rpmlib): rpmlib(LargeFiles) <= 4.12.0-1
+Requires: libc.so.6()(64bit) libc.so.6(GLIBC_2.14)(64bit) libc.so.6(GLIBC_2.2.5)(64bit) libc.so.6(GLIBC_2.34)(64bit) libgcc_s.so.1()(64bit) libgcc_s.so.1(GCC_3.0)(64bit) libraylib.so.600()(64bit) libstdc++.so.6()(64bit) libstdc++.so.6(CXXABI_1.3)(64bit) libstdc++.so.6(CXXABI_1.3.9)(64bit) libstdc++.so.6(GLIBCXX_3.4)(64bit) libstdc++.so.6(GLIBCXX_3.4.32)(64bit) rtld(GNU_HASH)
+Checking for unpackaged file(s): /usr/lib/rpm/check-files /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/snake-1.0.0-Linux
+Wrote: /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/RPMS/snake-1.0.0-Linux.rpm
+Executing(%clean): /bin/sh -e /var/tmp/rpm-tmp.WpnrGj
+Executing(rmbuild): /bin/sh -e /var/tmp/rpm-tmp.uGFUUw

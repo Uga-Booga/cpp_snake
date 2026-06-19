@@ -1,0 +1,37 @@
+Building target platforms: x86_64
+Building for target x86_64
+error: Unable to open sqlite database /var/lib/rpm/rpmdb.sqlite: unable to open database file
+error: cannot open Packages index using sqlite - Operation not permitted (1)
+error: cannot open Packages database in /var/lib/rpm
++ umask 022
++ cd /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/BUILD/snake-1.0.0-build
++ mv /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/snake-1.0.0-Linux /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/tmpBBroot
++ RPM_EC=0
++ jobs -p
++ exit 0
++ umask 022
++ cd /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/BUILD/snake-1.0.0-build
++ /usr/bin/rm -rf /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/snake-1.0.0-Linux
++ /usr/bin/mkdir -p /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM
++ /usr/bin/mkdir /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/snake-1.0.0-Linux
++ [ -e /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/snake-1.0.0-Linux ]
++ rm -rf /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/snake-1.0.0-Linux
++ mv /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/tmpBBroot /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/snake-1.0.0-Linux
++ /usr/lib/rpm/brp-compress /usr
++ /usr/lib/rpm/brp-strip /usr/bin/strip
++ /usr/lib/rpm/brp-strip-static-archive /usr/bin/strip
++ /usr/lib/rpm/brp-strip-comment-note /usr/bin/strip /usr/bin/objdump
++ /usr/lib/rpm/brp-remove-la-files
++ umask 022
++ cd /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/BUILD/snake-1.0.0-build
++ RPM_EC=0
++ jobs -p
++ exit 0
++ umask 022
++ cd /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/BUILD/snake-1.0.0-build
++ test -d /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/BUILD/snake-1.0.0-build
++ /usr/bin/chmod -Rf a+rX,u+w,g-w,o-w /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/BUILD/snake-1.0.0-build
++ rm -rf /home/boogabooga/snake/build-linux/_CPack_Packages/Linux/RPM/BUILD/snake-1.0.0-build
++ RPM_EC=0
++ jobs -p
++ exit 0

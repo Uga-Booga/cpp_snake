@@ -1,0 +1,9 @@
+Architecture: amd64
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libraylib600 (>= 6.0+ds), libstdc++6 (>= 13.1)
+Description: C++ Snake
+Maintainer: Your Name <you@example.com>
+Package: snake
+Priority: optional
+Section: utils
+Version: 1.0.0
+Installed-Size: 25
